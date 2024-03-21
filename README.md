@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 [![](https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=8F9984&random=false&width=450&lines=Hello!+I+am+Ei)](https://git.io/typing-svg)
 
-> [!CAUTION]
-> a salted fish dev.
+<!-- > [!CAUTION]
+> a salted fish dev. -->
 <!--
 **ei-saltedfish/ei-saltedfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻 Tech Stack
+## 🌿 About Me
+🐣 Frontend Developer | Data Science enthusiast</br>
+🌱 
+🌼
+🍵
+♋
+💕💗
+
+## 🍃 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,7 +44,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2523ED8B00.svg?style=for-the-badge&logo=mysql&logoColor=white&color=00758F)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌱 GITHUB STATs
+## 🪴 GITHUB STATs
 ![](https://github-readme-stats.vercel.app/api?username=ei-saltedfish&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
