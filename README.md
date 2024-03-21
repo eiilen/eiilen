@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 ## 🌿 About Me
 🐣 Frontend Developer | Data Science enthusiast</br>
-🌱
+🌱 
 🌼
+🍵
 ♋
 💕💗
 
