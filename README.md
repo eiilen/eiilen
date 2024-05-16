@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🪴 GITHUB STATs
-![](https://github-readme-stats.vercel.app/api?username=ei-saltedfish&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=eiilen&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
