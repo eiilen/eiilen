@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 🌱 Shy, Persistent, Hard-working</br>
 🌼 Hobbies: reading novels, manhua, watching movies</br>
 ♋ Zodiac Sign: Cancer</br>
-🍒 Cherry is everything.</br>
-🥑 So does Avocado.</br>
 🍂 No one knows how, they just do it.</br>
 🍵 Drink water, eh?
 
