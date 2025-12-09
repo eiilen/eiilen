@@ -1,50 +1,18 @@
-<!-- ### Hi there 👋 -->
-[![](https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=8F9984&random=false&width=450&lines=Hello!+I+am+Ei)](https://git.io/typing-svg)
+![Chiikawa](https://chiikawa-merch.com/cdn/shop/articles/chiikawa_popular_characters_4e9c0ee2-ee8c-4fbb-8e08-dede4d3b882e.png?v=1745939884)
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78A5C1&width=435&lines=hello%2C+i+am+ei+%F0%9F%A7%BF)](https://git.io/typing-svg)
 
-<!-- > [!CAUTION]
-> a salted fish dev. -->
-<!--
-**ei-saltedfish/ei-saltedfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#"><img align="right" src="https://s1.aigei.com/src/img/gif/b2/b2e3e4bf85e24653a423f6d6b2bcf6c0.gif?imageMogr2/auto-orient/thumbnail/!157x132r/gravity/Center/crop/157x132/quality/85/%7CimageView2/2/w/157&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:8P74drl-jupGUcxUIxjyG9DHj-U=" width="200" height="200" /></a>
 
 ## 🌿 About Me
-🐣 Frontend Developer | Data Science enthusiast</br>
+🐣 Frontend Developer</br>
 🌱 Shy, Persistent, Hard-working</br>
 🌼 Hobbies: reading novels, manhua, watching movies</br>
 🍵 No one knows how, they just do it.</br>
 ♋ Drink water, eh?
 
-
 ## 🍃 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Angular](https://img.shields.io/badge/angular-%2523F24E1E.svg?style=for-the-badge&logo=angular&color=%23c3002f)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2523ED8B00.svg?style=for-the-badge&logo=mysql&logoColor=white&color=00758F)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://skillicons.dev/icons?i=javascript,typescript,html,css,c,java,angular,vuejs,nuxtjs,git,figma,firebase,notion,mysql,postgres)
 
-## 🪴 GITHUB STATs
-![](https://github-readme-stats.vercel.app/api?username=eiilen&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
+## 🪴 Recommendations
+<a href="https://www.imdb.com/title/tt14976292/?ref_=ext_shr_lnk"><img align="left" src="https://m.media-amazon.com/images/M/MV5BODNhM2I2NWEtYzkxYy00M2IxLWJjMjYtOWNhZTNjZGNjNjgyXkEyXkFqcGc@._V1_.jpg" width="180" /></a>
+<a href="https://www.imdb.com/title/tt15250594/?ref_=ext_shr_lnk"><img align="left" src="https://m.media-amazon.com/images/M/MV5BOTkxMmIxYTEtNmJmYS00Y2VmLTgzNWMtYjk5YWMxZTE4MmNkXkEyXkFqcGc@._V1_.jpg" width="180" /></a>
