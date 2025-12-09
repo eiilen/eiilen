@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 🐣 Frontend Developer | Data Science enthusiast</br>
 🌱 Shy, Persistent, Hard-working</br>
 🌼 Hobbies: reading novels, manhua, watching movies</br>
-♋ Zodiac Sign: Cancer</br>
-🍒 Cherry is everything.</br>
-🥑 So does Avocado.</br>
-🍂 No one knows how, they just do it.</br>
-🍵 Drink water, eh?
+🍵 No one knows how, they just do it.</br>
+♋ Drink water, eh?
+
 
 ## 🍃 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
