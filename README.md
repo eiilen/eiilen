@@ -1,7 +1,7 @@
-![Chiikawa](https://github.com/eiilen/eiilen/raw/ei-v2/images/chiikawa_banner.png)
+![Chiikawa](https://github.com/eiilen/eiilen/raw/main/images/chiikawa_banner.png)
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78A5C1&width=435&lines=hello%2C+i+am+ei+%F0%9F%A7%BF)](https://git.io/typing-svg)
 
-<a href="#"><img align="right" src="https://github.com/eiilen/eiilen/raw/ei-v2/images/usagi.gif" width="200" height="200" /></a>
+<a href="#"><img align="right" src="https://github.com/eiilen/eiilen/raw/main/images/usagi.gif" width="200" height="200" /></a>
 
 ## 🌿 About Me
 🐣 Frontend Developer</br>
