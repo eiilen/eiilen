@@ -13,6 +13,9 @@
 ## 🍃 Tech Stack
 ![](https://skillicons.dev/icons?i=javascript,typescript,html,css,c,java,angular,vuejs,nuxtjs,git,figma,firebase,notion,mysql,postgres)
 
-## 🪴 Recommendations
+## 🪴 GITHUB STATs
+![](https://github-readme-stats.vercel.app/api?username=eiilen&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+## 🌸 Recommendations
 <a href="https://www.imdb.com/title/tt14976292/?ref_=ext_shr_lnk"><img align="left" src="https://m.media-amazon.com/images/M/MV5BODNhM2I2NWEtYzkxYy00M2IxLWJjMjYtOWNhZTNjZGNjNjgyXkEyXkFqcGc@._V1_.jpg" width="180" /></a>
 <a href="https://www.imdb.com/title/tt15250594/?ref_=ext_shr_lnk"><img align="left" src="https://m.media-amazon.com/images/M/MV5BOTkxMmIxYTEtNmJmYS00Y2VmLTgzNWMtYjk5YWMxZTE4MmNkXkEyXkFqcGc@._V1_.jpg" width="180" /></a>
